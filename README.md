@@ -8,3 +8,5 @@ To allow the page to be seen on internet
 4. after, in the same section Settings/GitHub Pages, the link for the webisite is visible
 link: https://cpalas.github.io/t-wiki/
 that is //<username>.github.io/<repname>/
+MOdified HTML code to avoid robot search on the single page:
+   <meta name="robots" content="noindex"> in the head section
