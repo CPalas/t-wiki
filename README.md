@@ -5,8 +5,8 @@ To allow the page to be seen on internet
 1. Make sure you have index page in the chosen rep
 2. in repository Settings (on top right menu) section Github Pages activate the source directory
 3. directory might be master or docs 
-4. after, in the same section Settings/GitHub Pages, the link for the webisite is visible
+4. after, in the same section Settings/GitHub Pages, the link for the website is visible
 link: https://cpalas.github.io/t-wiki/
 that is //<username>.github.io/<repname>/
-MOdified HTML code to avoid robot search on the single page:
+As the rep is public Mdified HTML code to avoid robot search on the single page:
    <meta name="robots" content="noindex"> in the head section
